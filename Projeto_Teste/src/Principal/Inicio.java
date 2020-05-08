@@ -7,6 +7,8 @@ public class Inicio {
 		System.out.println("Ol√° mundo");
 		//Altera√ß√£o Original
 		System.out.println("Bom dia, meu amigo");
+		// AlteraÁ„o 
+		System.out.println("Tudo bem? ");
 	}
 
 }
